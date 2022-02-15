@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BestPracticeHymart</string>
+    <string name="kesehatan_kecantikan"><![CDATA[Kesehatan & Kecantikan]]></string>
+    <string name="makanan_minuman"><![CDATA[Makanan & Minuman]]></string>
+    <string name="rumah_dapur"><![CDATA[Rumah & Dapur]]></string>
+    <string name="ibu_anak"><![CDATA[Ibu & Anak]]></string>
+    <string name="keluar">Keluar</string>
+</resources>
